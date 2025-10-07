@@ -38,21 +38,6 @@ A set of long-form technical lessons based on **Tek Experts** and **Microsoft Az
 - Each module written in **plain text**, optimized for **live teaching and translation**
 
 ---
-
-## 🧩 Tech Stack
-
-| Category | Tools / Frameworks |
-|-----------|--------------------|
-| **Frontend / Static Sites** | Hugo, Vanilla CSS, HTML5 |
-| **CMS & Content** | Decap CMS (Netlify CMS), Cloudflare Stream API |
-| **Deployment / CI** | Netlify, GitHub Actions |
-| **Cloud & Infrastructure** | Microsoft Azure (App Service, ACR, Functions) |
-| **Video Delivery** | Cloudflare Stream, HLS playback via Video.js |
-| **SEO / Metadata** | JSON-LD, Open Graph, canonical tags |
-| **Languages** | HTML, CSS, JavaScript, Markdown, YAML, TOML |
-
----
-
 ## 🧰 Example: Hugo + Cloudflare + CMS Workflow
 
 ```mermaid
