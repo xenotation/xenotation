@@ -3,6 +3,8 @@
 **Contemporary artist + technologist from Bulgaria** working across visual culture, cloud architecture, and digital infrastructures.  
 This GitHub space hosts my ongoing experiments in **web-based exhibitions**, **art–tech platforms**, and **critical software infrastructures**.
 
+
+Webdev minimalism, human workable ad hoc per client frameworks and implementations.
 ---
 
 ## 🧠 About Me
